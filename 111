@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+printf("tffir\n");
+return 0:
+}
